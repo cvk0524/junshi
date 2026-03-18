@@ -12,10 +12,10 @@
 
 ```bash
 # 安装全部 13 个角色
-npx --yes skills add <你的用户名>/junshi --all
+npx --yes skills add cvk0524/junshi --all
 
 # 只安装特定角色
-npx --yes skills add <你的用户名>/junshi --skill junshi-qa -g -y
+npx --yes skills add cvk0524/junshi --skill junshi-qa -g -y
 ```
 
 ### 方式 2：SkillHub CLI
@@ -27,7 +27,7 @@ skillhub install junshi --primary-download-url-template "https://你的域名/sk
 ### 方式 3：手动安装
 
 ```bash
-git clone https://github.com/<你的用户名>/junshi.git ~/.codebuddy/skills/gstack
+git clone https://github.com/cvk0524/junshi.git ~/.codebuddy/skills/gstack
 ```
 
 ## 角色一览
