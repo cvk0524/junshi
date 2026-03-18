@@ -25,7 +25,7 @@ version: 2.0.0
 用 `read_file` 工具读取对应角色的 SKILL.md 文件：
 
 ```
-~/.codebuddy/skills/gstack/<role>/SKILL.md
+~/.codebuddy/skills/junshi/<role>/SKILL.md
 ```
 
 读取后严格按照该文件中的指令执行，不要只是告诉用户"有这个角色"。

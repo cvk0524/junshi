@@ -27,7 +27,7 @@ skillhub install junshi --primary-download-url-template "https://你的域名/sk
 ### 方式 3：手动安装
 
 ```bash
-git clone https://github.com/cvk0524/junshi.git ~/.codebuddy/skills/gstack
+git clone https://github.com/cvk0524/junshi.git ~/.codebuddy/skills/junshi
 ```
 
 ## 角色一览
@@ -62,7 +62,7 @@ git clone https://github.com/cvk0524/junshi.git ~/.codebuddy/skills/gstack
 或者指定角色：
 
 ```
-Read ~/.codebuddy/skills/gstack/qa/SKILL.md
+Read ~/.codebuddy/skills/junshi/qa/SKILL.md
 ```
 
 ## 依赖

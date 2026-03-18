@@ -1,8 +1,10 @@
 {
+  "slug": "junshi",
   "name": "军师",
   "version": "2.0.0",
   "description": "军师 — 13 位虚拟专家角色，覆盖软件开发全生命周期：从产品愿景到上线交付。基于 Garry Tan 的 gstack 深度适配 CodeBuddy。",
   "author": "Garry Tan (original), adapted for CodeBuddy",
+  "publishedAt": 1742307600000,
   "skills": [
     "browse",
     "review",
